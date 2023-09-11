@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/homeMenu"
+            android:icon="@drawable/home_vector"
+            android:title="@string/home"/>
+
+        <item android:id="@+id/loginMenu"
+            android:icon="@drawable/login_vector"
+            android:title="@string/login"/>
+
+        <item android:id="@+id/registerMenu"
+            android:icon="@drawable/register_vector"
+            android:title="@string/register"/>
+
+        <item android:id="@+id/carMenu"
+            android:icon="@drawable/car_vector"
+            android:title="@string/drive"/>
+
+        <item android:id="@+id/navigateMenu"
+            android:icon="@drawable/navigate_vector"
+            android:title="@string/navigate"/>
+
+        <item android:id="@+id/profileMenu"
+            android:icon="@drawable/profile_vector"
+            android:title="@string/profile"/>
+
+        <item android:id="@+id/settingsMenu"
+            android:icon="@drawable/settings_vector"
+            android:title="@string/settings"/>
+    </group>
+
+</menu>

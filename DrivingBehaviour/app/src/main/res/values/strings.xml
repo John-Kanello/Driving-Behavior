@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name" translatable="false">DrivingBehaviour</string>
+    <string name="title_activity_driving_maps" translatable="false">DrivingMapsActivity</string>
+    <!--    <string name="google_api_key">AIzaSyB5shthdBj0fCND2cLz3Q_VVFu7K8_odzg</string>-->
+    <string name="title_activity_navigating_maps" translatable="false">NavigatingMapsActivity</string>
+    <string name="title_activity_drive" translatable="false">DriveActivity</string>
+    <string name="menu_drawer_open" translatable="false">Drawer Open</string>
+    <string name="menu_drawer_close" translatable="false">Drawer Close</string>
+    <string name="driving_behaviour">Driving Behaviour</string>
+    <string name="time">00:00:00</string>
+    <string name="duration">DURATION</string>
+    <string name="m">m</string>
+    <string name="distance">DISTANCE</string>
+    <string name="max_speed">MAX SPEED</string>
+    <string name="_0">0</string>
+    <string name="km_h">KM/H</string>
+    <string name="avg_speed">AVG SPEED</string>
+    <string name="acceleration">ACCELERATION</string>
+    <string name="m_s">M/S²</string>
+    <string name="idle_time">IDLE TIME</string>
+    <string name="address">ADDRESS</string>
+    <string name="dash">-</string>
+    <string name="altitude">ALTITUDE</string>
+    <string name="latitude">LATITUDE</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="temperature">TEMPERATURE</string>
+    <string name="c">C°</string>
+    <string name="view_map">View Map</string>
+    <string name="stop">Stop</string>
+    <string name="driving_app">Driving App</string>
+    <string name="test_your_driving_abilities">Test your driving abilities</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="drive">Drive</string>
+    <string name="profile">Profile</string>
+    <string name="navigate">Navigate</string>
+    <string name="settings">Settings</string>
+    <string name="your_average">Your Avg</string>
+    <string name="_240">240</string>
+    <string name="_60">60</string>
+    <string name="_20">20</string>
+    <string name="max_accel">Max Accel</string>
+    <string name="_minus20">-20</string>
+    <string name="min_accel">Min Accel</string>
+    <string name="_100">100</string>
+    <string name="percent">%</string>
+    <string name="sudden_break">SUDDEN BREAK</string>
+    <string name="_1000m">/1000m</string>
+    <string name="sudden_acceleration">SUDDEN ACCELERATION</string>
+    <string name="steep_turns">STEEP TURNS</string>
+    <string name="continueStr">Continue</string>
+    <string name="global_avg">Global Avg</string>
+    <string name="choose_a_session">Choose a session:</string>
+    <string name="max_speed_small">Max Speed</string>
+    <string name="avg_speed_small">Avg Speed</string>
+    <string name="m_s_small">m/s²</string>
+    <string name="km_h_small">km/h</string>
+    <string name="start_time">START TIME</string>
+    <string name="end_time">END TIME</string>
+    <string name="date">DATE</string>
+    <string name="duration_small">Duration</string>
+    <string name="distance_small">Distance</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="update">Update</string>
+    <string name="results">Results</string>
+    <string name="hello_there_welcome_back">Hello there, Welcome back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="permission_request">Permission Request</string>
+    <string name="grant_permissions">This project needs permissions to function properly! Please grant the permissions!</string>
+    <string name="grant">Grant</string>
+    <string name="welcome">Welcome</string>
+    <string name="register_to_start_your_new_journey">Register to start your new journey</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="view_history">View History</string>
+    <string name="view_statistics">View Statistics</string>
+    <string name="analyze_your_driving_abilities">Analyze your driving abilities</string>
+    <string name="home">Home</string>
+    <string name="choose_a_language" translatable="false">Choose a Language</string>
+    <string name="english" translatable="false">English</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="search_place">Search a place</string>
+    <string name="settings_en" translatable="false">Settings</string>
+    <string name="home_en" translatable="false">Home</string>
+    <string name="login_en" translatable="false">Login</string>
+    <string name="register_en" translatable="false">Register</string>
+    <string name="drive_en" translatable="false">Drive</string>
+    <string name="navigate_en" translatable="false">Navigate</string>
+    <string name="profile_en" translatable="false">Profile</string>
+    <string name="driving_behaviour_en" translatable="false">Driving Behaviour</string>
+    <string name="continue_en" translatable="false">Continue</string>
+    <string name="sign_in_first">You need to sign in first!!!</string>
+    <string name="birthday_check">You need to be at least 18 years old</string>
+    <string name="enable_location">Please enable your location</string>
+    <string name="back">Back</string>
+    <string name="turn_on_location">You need to turn on your location</string>
+
+
+</resources>
